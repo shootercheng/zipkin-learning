@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <brave.version>4.9.1</brave.version>
     <zipkin-reporter2.version>2.1.3</zipkin-reporter2.version>
-    <log4j.version>2.8.2</log4j.version>
+    <log4j.version>2.15.0</log4j.version>
   </properties>
 
   <dependencies>
